@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Guest/Views/Shared/_Layout.cshtml";
+}
+<div >
+    @*Slider Content*@
+    @await Component.InvokeAsync("SliderContent")
+    @*Slider Content End*@
+</div>
+@*Main Content*@
+<div style="z-index:1000;position:absolute;top:100vh;width:100%">
+    @* ContactInfo*@
+    @await Component.InvokeAsync("ContactInfo")
+    @* ContactInfo End*@
+
+    @* Our Rooms*@
+    @await Component.InvokeAsync("OurRooms")
+    @* Our Rooms End*@
+
+    @* LuxeryRoom*@
+    <section id="section-intro" class="pt60" data-bgcolor="#79552A">
+        <div class="container">
+              @await Component.InvokeAsync("LuxeryRoom")
+        </div>
+    </section>
+    @* LuxeryRoom End*@
+
+    @* Testimonials*@
+    @await Component.InvokeAsync("Testimonials")
+    @* Testimonials End*@
+    <partial name="_LayoutPartial/_FooterPartial" />
+</div>
+@*Main Content End*@

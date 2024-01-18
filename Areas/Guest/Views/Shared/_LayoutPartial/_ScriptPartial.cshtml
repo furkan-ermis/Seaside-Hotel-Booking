@@ -1,0 +1,57 @@
+﻿<!-- Javascript Files
+
+   ================================================== -->
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+
+<script src="~/Templates/seaside/js/plugins.js"></script>
+<script src="~/Templates/seaside/js/designesia.js"></script>
+
+<!-- Supersized -->
+<script src='~/Templates/seaside/js/supersized/js/supersized.3.2.7.js'></script>
+<script src='~/Templates/seaside/js/supersized/theme/supersized.shutter.min.js'></script>
+
+<script>
+    jQuery(function ($) {
+        var slides = [];
+        slides.push({ image: '/Templates/seaside/images/slider/1.jpg', title: "<div class='slider-text'><h2 class='wow fadeInUp'>Relax</h2><a class='btn-line wow fadeInUp' data-wow-delay='.3s' href='guest/Home/About'><span>Our Facilities</span></a></div>", thumb: '', url: '' });
+
+        slides.push({ image: '/Templates/seaside/images/slider/2.jpg', title: "<div class='slider-text'><h2 class='wow fadeInUp'>Comfort</h2><a class='btn-line wow fadeInUp' data-wow-delay='.3s' href='guest/Room/Rooms'><span>Choose Room</span></a></div>", thumb: '', url: '' });
+
+        slides.push({ image: '/Templates/seaside/images/slider/3.jpg', title: "<div class='slider-text'><h2 class='wow fadeInUp'>Happy</h2><a class='btn-line wow fadeInUp' data-wow-delay='.3s' href='guest/Home/About'><span>Our Facilities</span></a></div>", thumb: '', url: '' });
+
+
+        $.supersized({
+            // Functionality
+            slide_interval: 5000, // Length between transitions
+
+            transition: 1, // 0-None, 1-Fade, 2-Slide Top, 3-Slide Right, 4-Slide Bottom, 5-Slide Left, 6-Carousel Right, 7-Carousel Left
+            transition_speed: 500, // Speed of transition
+            slide_links: 'blank',    // Individual links for each slide (Options: false, 'num', 'name', 'blank')
+            slides: slides,
+            autoplay: 1,
+            fit_always: 0,
+            performance: 1,
+            image_protect: 1        // Disables image dragging and right click with Javascript
+        });
+
+        jQuery("#pauseplay").toggle(
+            function () {
+                jQuery(this).addClass("pause");
+            },
+            function () {
+                jQuery(this).removeClass("pause").addClass("play");
+            });
+
+        jQuery("#pauseplay").stop().fadeTo(150, .5);
+        jQuery("#pauseplay").hover(
+            function () {
+                jQuery(this).stop().fadeTo(150, 1);
+            },
+            function () {
+                jQuery(this).stop().fadeTo(150, .5);
+            });
+
+    });
+</script>

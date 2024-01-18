@@ -1,0 +1,71 @@
+﻿@using System.Security.Claims;
+    <!-- header begin -->
+    <header class="header-fullwidth menu-expand transparent">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+
+                    <div class="de-flex">
+                        <div class="de-flex-col">
+                            <!-- logo begin -->
+                            <div id="logo">
+                                <a asp-area="Guest" asp-controller="Home" asp-action="Index">
+                                    <img class="logo" src="~/Templates/seaside/images/logo.png" alt="">
+                                </a>
+                            </div>
+                            <!-- logo close -->
+                        </div>
+
+                        <div class="de-flex-col">
+
+                            <ul id="mainmenu">
+                                <li>
+                                <a asp-area="Guest" asp-controller="Home" asp-action="Index">Home</a>
+                                   
+                                </li>
+                            <li><a asp-area="Guest" asp-controller="Home" asp-action="About">About</a></li>
+                                <li>
+                                <a asp-area="Guest" asp-controller="Room" asp-action="Rooms">Rooms</a>
+                                </li>
+                            <li><a asp-area="Guest" asp-controller="Blog" asp-action="Blogs">Blog</a></li>
+                            <li><a asp-area="Guest" asp-controller="Home" asp-action="Gallery">Gallery</a></li>
+                            <li><a asp-area="Guest" asp-controller="Home" asp-action="Contact">Contact</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="de-flex-col">
+                           
+                        <div class="d-extra">
+                             @if (User.FindFirstValue(ClaimTypes.NameIdentifier) != null)
+                            {
+                                <a class="btn-slider dark" asp-area="Guest" asp-controller="Book" asp-action="Index">Booking</a>
+                                <a class="btn-black" asp-area="Guest" asp-controller="Login" asp-action="Logout">Logout</a>
+                            }
+                            else
+                            {
+                                <a class="btn-black" style="font-size:10px;padding:4px 8px" asp-area="Guest" asp-controller="Login" asp-action="Index">Login</a>
+                                <a class="btn-slider" style="font-size:10px;padding: 8px" asp-area="Guest" asp-controller="Register" asp-action="Register">Register</a>
+                            }
+                        </div>
+                            <div id="menu-btn"></div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </header>
+    <!-- header close -->
+
+<!-- float text begin -->
+<div class="float-text" style="z-index:1010">
+    <div class="de_social-icons">
+        <a href="https://tr-tr.facebook.com/"><i class="fa fa-facebook fa-lg"></i></a>
+        <a href="https://twitter.com/"><i class="fa fa-twitter fa-lg"></i></a>
+        <a href="https://www.instagram.com/"><i class="fa fa-instagram fa-lg"></i></a>
+    </div>
+    <span><a asp-area="Guest" asp-controller="Book" asp-action="Index">Book Now</a></span>
+</div>
+<!-- float text close -->
+

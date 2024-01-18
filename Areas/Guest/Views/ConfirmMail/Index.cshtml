@@ -1,0 +1,25 @@
+﻿@model ConfirmMailViewModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/lib/emailConfirm/css/site.css" rel="stylesheet" />
+</head>
+<body>
+<div class="login">
+    <h1>Confirm Mail</h1>
+    <form method="post">
+        <input type="text" asp-for="Email" placeholder="Email" required="required" value="@ViewBag.mail" />
+        <input type="password" asp-for="Code" placeholder="Code" required="required" />
+        <button type="submit" class="btn btn-primary btn-block btn-large">Confirm Mail</button>
+    </form>
+</div>
+</body>
+</html>
