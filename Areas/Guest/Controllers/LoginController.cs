@@ -29,6 +29,14 @@ namespace DestinyHaven.Areas.Guest.Controllers
                 {
                     return RedirectToAction("Index", "Home");
                 }
+                else
+                {
+                    TempData["LoginError"]= "Please confirm your email address";
+                }
+            }
+            else
+            {
+                TempData["LoginError"] = "Please check your email address or password";
             }
             return View();
         }

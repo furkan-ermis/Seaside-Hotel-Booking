@@ -12,8 +12,6 @@ namespace DestinyHaven.Entity
         public string? ImageUrl { get; set; }
         [NotMapped]
         public string? Role { get; set; }
-
-        [NotMapped]
         public int? ConfirmCode { get; set; }
         
     }

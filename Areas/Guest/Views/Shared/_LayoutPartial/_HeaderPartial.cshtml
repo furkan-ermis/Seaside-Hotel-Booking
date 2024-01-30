@@ -38,7 +38,14 @@
                         <div class="d-extra">
                              @if (User.FindFirstValue(ClaimTypes.NameIdentifier) != null)
                             {
-                                <a class="btn-slider dark" asp-area="Guest" asp-controller="Book" asp-action="Index">Booking</a>
+                                @if(User.IsInRole("Admin")){
+                                    <a class="btn-slider dark" asp-area="Admin" asp-controller="Default" asp-action="Index">Admin Panel</a>
+                                }
+                                else
+                                {
+                                <a class="btn-slider dark" asp-area="Guest" asp-controller="Booking" asp-action="Index">Booking</a>
+                                }
+
                                 <a class="btn-black" asp-area="Guest" asp-controller="Login" asp-action="Logout">Logout</a>
                             }
                             else
@@ -65,7 +72,6 @@
         <a href="https://twitter.com/"><i class="fa fa-twitter fa-lg"></i></a>
         <a href="https://www.instagram.com/"><i class="fa fa-instagram fa-lg"></i></a>
     </div>
-    <span><a asp-area="Guest" asp-controller="Book" asp-action="Index">Book Now</a></span>
 </div>
 <!-- float text close -->
 

@@ -27,7 +27,7 @@
                 <input type="password" asp-for="Password" required />
                 <label>Password</label>
             </div>
-            <div asp-validation-summary="ModelOnly"></div>
+            <label>@TempData["LoginError"]</label>
             <div style="display:block;justify-content:space-around">
                 <button type="submit" style="border:none;background-color:transparent;cursor:pointer">
                     <a>

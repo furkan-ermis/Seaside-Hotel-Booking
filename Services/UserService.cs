@@ -19,29 +19,6 @@ namespace DestinyHaven.Services
             }
             return Task.FromResult(users);
         }
-        public Task<AppUser> CreateUserAsync(AppUser user)
-        {
-            throw new NotImplementedException();
-        }
-        public Task DeleteUserAsync(AppUser user)
-        {
-            throw new NotImplementedException();
-        }
-        public Task<AppUser> GetUserAsync(string username)
-        {
-            throw new NotImplementedException();
-        }
-        public Task<AppUser> GetUserAsync(int id)
-        {
-            throw new NotImplementedException();
-        }
-        public Task<AppUser> GetUserAsync(string username, string password)
-        {
-            throw new NotImplementedException();
-        }
-        public Task<AppUser> UpdateUserAsync(AppUser user)
-        {
-            throw new NotImplementedException();
-        }
+        
     }
 }

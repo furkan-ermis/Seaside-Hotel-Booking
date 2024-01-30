@@ -4,42 +4,46 @@ using DestinyHaven.ViewModels;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using System.Configuration;
 
 namespace DestinyHaven.Areas.Guest.Controllers
 {
     public class RegisterController : Controller
     {
         private readonly UserManager<AppUser> _userManager;
-        private readonly RoleManager<IdentityRole> _roleManager;
-        public RegisterController(UserManager<AppUser> userManager, RoleManager<IdentityRole> roleManager)
+        private readonly RoleManager<IdentityRole> _roleManager; 
+        private readonly IConfiguration _configuration;
+
+        public RegisterController(UserManager<AppUser> userManager, RoleManager<IdentityRole> roleManager, IConfiguration configuration)
         {
             _userManager = userManager;
             _roleManager = roleManager;
+            _configuration = configuration;
+
 
         }
         public async Task<IActionResult> Register()
         {
-            await GenerateDefaultRoles();
-            AppUserRegisterViewModel appUserRegisterViewModel = new AppUserRegisterViewModel()
-            {
-                RoleList = _roleManager.Roles
-                 .Select(x => x.Name)
-                 .Select(u => new SelectListItem
-                 {
-                     Text = u,
-                     Value = u
-                 })   
-            };
+            AppUserRegisterViewModel appUserRegisterViewModel = RoleSelectBox();
             return View(appUserRegisterViewModel);
         }
+
+
         [HttpPost]
         public async Task<IActionResult> Register(AppUserRegisterViewModel appUserRegisterViewModel)
         {
-            Random rnd = new Random();
+            await GenerateDefaultRolesAsync();
+            var existingUser = await _userManager.FindByEmailAsync(appUserRegisterViewModel.Email);
+            if (existingUser != null)
+            { 
+                ModelState.AddModelError("Email", "Bu e-posta adresi zaten kullanılmaktadır.");
+                appUserRegisterViewModel = RoleSelectBox();
+                return View(appUserRegisterViewModel);
+            }
+
             if (ModelState.IsValid)
             {
-                int code;
-                code = rnd.Next(100000, 1000000);
+                var code =RandomCodeGenerate.GenerateSecureRandomCode(6);
                 AppUser appUser = new AppUser()
                 {
                     Name = appUserRegisterViewModel.Name,
@@ -55,8 +59,7 @@ namespace DestinyHaven.Areas.Guest.Controllers
                 var result = await _userManager.CreateAsync(appUser, appUserRegisterViewModel.Password);
                 if (result.Succeeded)
                 {
-                   
-                    if (appUser.Role == null)
+                    if (string.IsNullOrWhiteSpace(appUser.Role))
                     {
                         await _userManager.AddToRoleAsync(appUser, DefaultRole.RoleUser);
                     }
@@ -64,14 +67,12 @@ namespace DestinyHaven.Areas.Guest.Controllers
                     {
                         await _userManager.AddToRoleAsync(appUser, appUser.Role);
                     }
-
-
-                    // ! SendMail Generic Method send mail to user
-                    new SendMail(appUser.Email, "10webapp10@gmail.com", "mnvvwljcchhtsaig",
-                       "Destiny Haven Otel Rezervasyon ", "User", "Destiny Haven Onay Kodu", "Kayıt olmak için onay kodunuz : " + appUser.ConfirmCode);
+                    // Pass IConfiguration to SendMail constructor
+                    new SendMail(_configuration, appUser.Email,"Admin", "User", "Destiny Haven Onay Kodu", "Kayıt olmak için onay kodunuz : " + appUser.ConfirmCode);
                     TempData["Mail"] = appUserRegisterViewModel.Email;
                     return RedirectToAction("Index", "ConfirmMail");
                 }
+
                 else
                 {
                     foreach (var item in result.Errors)
@@ -82,7 +83,7 @@ namespace DestinyHaven.Areas.Guest.Controllers
             }
             return View();
         }
-        private async Task GenerateDefaultRoles()
+        private async Task GenerateDefaultRolesAsync()
         {
             if (!await _roleManager.RoleExistsAsync(DefaultRole.RoleAdmin))
             {
@@ -97,5 +98,19 @@ namespace DestinyHaven.Areas.Guest.Controllers
                 await _roleManager.CreateAsync(new IdentityRole(DefaultRole.RoleGuest));
             }
         }
+        private AppUserRegisterViewModel RoleSelectBox()
+        {
+            return new AppUserRegisterViewModel()
+            {
+                RoleList = _roleManager.Roles
+                             .Select(x => x.Name)
+                             .Select(u => new SelectListItem
+                             {
+                                 Text = u,
+                                 Value = u
+                             })
+            };
+        }
+
     }
 }

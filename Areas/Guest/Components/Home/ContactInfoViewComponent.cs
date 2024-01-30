@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using DestinyHaven.Entity;
+using Microsoft.AspNetCore.Mvc;
 
 [ViewComponent]
 public class ContactInfoViewComponent : ViewComponent
@@ -7,5 +8,6 @@ public class ContactInfoViewComponent : ViewComponent
     {
         return View("/Areas/Guest/Views/Shared/Components/Home/ContactInfo/Default.cshtml");
     }
+    
 }
 

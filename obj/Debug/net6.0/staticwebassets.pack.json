@@ -1,1323 +1,1047 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DestinyHaven.bundle.scp.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DestinyHaven.bundle.scp.css",
       "PackagePath": "staticwebassets\\DestinyHaven.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\about.html",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\about.html"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\css\\adminlte.min.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\css\\style-liberty.css",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\css\\style-liberty.css"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\2.png",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\2.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\fonts\\FontAwesome.otf",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\fonts\\FontAwesome.otf"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\4.png",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\4.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\fonts\\fontawesome-webfont.eot",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\fonts\\fontawesome-webfont.eot"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\AdminLTELogo.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\fonts\\fontawesome-webfont.svg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\fonts\\fontawesome-webfont.svg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\avatar.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\fonts\\fontawesome-webfont.ttf",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\fonts\\fontawesome-webfont.ttf"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\avatar04.png",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\avatar04.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\fonts\\fontawesome-webfont.woff",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\fonts\\fontawesome-webfont.woff"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\avatar2.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\fonts\\fontawesome-webfont.woff2",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\fonts\\fontawesome-webfont.woff2"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\avatar3.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\banner1.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\banner1.jpg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\avatar5.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\banner2.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\banner2.jpg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\boxed-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\banner3.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\banner3.jpg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\boxed-bg.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\banner4.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\banner4.jpg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\credit\\american-express.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\c1.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\c1.jpg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\credit\\cirrus.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\c2.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\c2.jpg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\credit\\mastercard.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\c3.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\c3.jpg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\credit\\mestro.png",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\credit\\mestro.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\c4.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\c4.jpg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\credit\\paypal.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\close.png",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\close.png"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\credit\\paypal2.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\date.png",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\date.png"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\credit\\visa.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\dots.png",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\dots.png"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\default-150x150.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\down.png",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\down.png"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\icons.png",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\icons.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\g1.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\g1.jpg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\photo1.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\g10.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\g10.jpg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\photo2.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\g2.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\g2.jpg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\photo3.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\g3.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\g3.jpg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\photo4.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\g4.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\g4.jpg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\prod-1.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\g5.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\g5.jpg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\prod-2.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\g6.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\g6.jpg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\prod-3.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\g7.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\g7.jpg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\prod-4.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\g8.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\g8.jpg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\prod-5.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\g9.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\g9.jpg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\user1-128x128.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\img-sprite.png",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\img-sprite.png"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\user2-160x160.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\team1.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\team1.jpg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\user3-128x128.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\team2.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\team2.jpg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\user4-128x128.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\team3.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\team3.jpg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\user5-128x128.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\images\\team4.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\images\\team4.jpg"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\user6-128x128.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\js\\all.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\js\\all.js"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\user7-128x128.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\js\\app.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\js\\app.js"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\img\\user8-128x128.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\js\\bootstrap.min.js"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\Templates\\admin\\dist\\js\\adminlte.min.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\js\\jquery-3.3.1.min.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\js\\jquery-3.3.1.min.js"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Templates\\admin\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\js\\jquery.countup.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\js\\jquery.countup.js"
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\admin\\plugins\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Templates\\admin\\plugins\\jquery\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\js\\jquery.min.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\js\\jquery.min.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\js\\jquery.waypoints.min.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\js\\jquery.waypoints.min.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\js\\jquery.zoomslider.min.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\js\\jquery.zoomslider.min.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\js\\lightbox-plus-jquery.min.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\js\\lightbox-plus-jquery.min.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\js\\main.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\js\\main.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\js\\modernizr-2.6.2.min.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\js\\modernizr-2.6.2.min.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\js\\owl.carousel.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\js\\owl.carousel.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\js\\popper.min.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\js\\popper.min.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\assets\\js\\theme-change.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\assets\\js\\theme-change.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\blog-single.html",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\blog-single.html"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\blog.html",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\blog.html"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\contact.html",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\contact.html"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\index.html",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\index.html"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\landing-single.html",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\landing-single.html"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\liberty-license-W3Layouts.txt",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\liberty-license-W3Layouts.txt"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\pricing.html",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\pricing.html"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Liberty\\services.html",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Liberty\\services.html"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\about.html",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\about.html"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\css\\style-starter.css",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\css\\style-starter.css"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\fonts\\FontAwesome.otf",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\fonts\\FontAwesome.otf"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.eot",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.eot"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.svg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.svg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.ttf",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.ttf"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.woff",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.woff"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.woff2",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.woff2"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\banner1.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\banner1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\banner2.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\banner2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\banner3.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\banner3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\banner4.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\banner4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\c1.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\c1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\c2.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\c2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\c3.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\c3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\c4.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\c4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\close.png",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\close.png"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\date.png",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\date.png"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\dots.png",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\dots.png"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\down.png",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\down.png"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\g1.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\g1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\g10.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\g10.jpg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\g2.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\g2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\g3.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\g3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\g4.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\g4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\g5.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\g5.jpg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\g6.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\g6.jpg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\g7.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\g7.jpg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\g8.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\g8.jpg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\g9.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\g9.jpg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\img-sprite.png",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\img-sprite.png"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\team1.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\team1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\team2.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\team2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\team3.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\team3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\images\\team4.jpg",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\images\\team4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\js\\all.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\js\\all.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\js\\app.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\js\\app.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\js\\bootstrap.min.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\js\\jquery-3.3.1.min.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\js\\jquery-3.3.1.min.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\js\\jquery.countup.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\js\\jquery.countup.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\js\\jquery.min.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\js\\jquery.min.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\js\\jquery.waypoints.min.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\js\\jquery.waypoints.min.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\js\\jquery.zoomslider.min.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\js\\jquery.zoomslider.min.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\js\\lightbox-plus-jquery.min.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\js\\lightbox-plus-jquery.min.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\js\\main.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\js\\main.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\js\\modernizr-2.6.2.min.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\js\\modernizr-2.6.2.min.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\js\\owl.carousel.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\js\\owl.carousel.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\js\\popper.min.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\js\\popper.min.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\assets\\js\\theme-change.js",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\assets\\js\\theme-change.js"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\contact.html",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\contact.html"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\index.html",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\index.html"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\services.html",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\services.html"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\Traversal-Starter\\starter-license-W3Layouts.txt",
-      "PackagePath": "staticwebassets\\Templates\\Traversal-Starter\\starter-license-W3Layouts.txt"
-    },
-    {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-about.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-about.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\02-about.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-blog-single.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-blog-single.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\02-blog-single.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-blog.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-blog.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\02-blog.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-booking.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-booking.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\02-booking.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-contact.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-contact.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\02-contact.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-gallery.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-gallery.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\02-gallery.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-index-full-page.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-index-full-page.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\02-index-full-page.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-index-room-slider-1.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-index-room-slider-1.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\02-index-room-slider-1.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-index-slider-2.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-index-slider-2.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\02-index-slider-2.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-index-slider-3.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-index-slider-3.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\02-index-slider-3.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-index-snowy.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-index-snowy.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\02-index-snowy.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-index-video-background.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-index-video-background.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\02-index-video-background.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-index.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-index.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\02-index.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-offer.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-offer.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\02-offer.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-room-2-cols.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-room-2-cols.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\02-room-2-cols.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-room-single.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-room-single.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\02-room-single.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-room.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\02-room.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\02-room.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\about.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\about.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\about.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\blog-single.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\blog-single.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\blog-single.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\blog.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\blog.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\blog.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\booking.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\booking.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\booking.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\contact.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\contact.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\contact.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\Templates\\seaside\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\css\\color.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\css\\color.css",
       "PackagePath": "staticwebassets\\Templates\\seaside\\css\\color.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\css\\colors\\brown.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\css\\colors\\brown.css",
       "PackagePath": "staticwebassets\\Templates\\seaside\\css\\colors\\brown.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\css\\let-it-snow.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\css\\let-it-snow.css",
       "PackagePath": "staticwebassets\\Templates\\seaside\\css\\let-it-snow.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\css\\owl.video.play.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\css\\owl.video.play.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\css\\owl.video.play.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\css\\plugins.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\css\\plugins.css",
       "PackagePath": "staticwebassets\\Templates\\seaside\\css\\plugins.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\css\\style.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\css\\style.css",
       "PackagePath": "staticwebassets\\Templates\\seaside\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\explore.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\explore.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\explore.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.eot",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.eot",
       "PackagePath": "staticwebassets\\Templates\\seaside\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.eot"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.svg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.svg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.svg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.ttf",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.ttf",
       "PackagePath": "staticwebassets\\Templates\\seaside\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.ttf"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.woff",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.woff",
       "PackagePath": "staticwebassets\\Templates\\seaside\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.woff"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIconsd41d.eot",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIconsd41d.eot",
       "PackagePath": "staticwebassets\\Templates\\seaside\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIconsd41d.eot"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\elegant_font\\HTML_CSS\\style.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\elegant_font\\HTML_CSS\\style.css",
       "PackagePath": "staticwebassets\\Templates\\seaside\\fonts\\elegant_font\\HTML_CSS\\style.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\et-line-font\\fonts\\et-line.eot",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\et-line-font\\fonts\\et-line.eot",
       "PackagePath": "staticwebassets\\Templates\\seaside\\fonts\\et-line-font\\fonts\\et-line.eot"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\et-line-font\\fonts\\et-line.svg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\et-line-font\\fonts\\et-line.svg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\fonts\\et-line-font\\fonts\\et-line.svg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\et-line-font\\fonts\\et-line.ttf",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\et-line-font\\fonts\\et-line.ttf",
       "PackagePath": "staticwebassets\\Templates\\seaside\\fonts\\et-line-font\\fonts\\et-line.ttf"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\et-line-font\\fonts\\et-line.woff",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\et-line-font\\fonts\\et-line.woff",
       "PackagePath": "staticwebassets\\Templates\\seaside\\fonts\\et-line-font\\fonts\\et-line.woff"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\et-line-font\\fonts\\et-lined41d.eot",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\et-line-font\\fonts\\et-lined41d.eot",
       "PackagePath": "staticwebassets\\Templates\\seaside\\fonts\\et-line-font\\fonts\\et-lined41d.eot"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\et-line-font\\style.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\et-line-font\\style.css",
       "PackagePath": "staticwebassets\\Templates\\seaside\\fonts\\et-line-font\\style.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\font-awesome\\css\\font-awesome.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\font-awesome\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\Templates\\seaside\\fonts\\font-awesome\\css\\font-awesome.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.eot",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.eot",
       "PackagePath": "staticwebassets\\Templates\\seaside\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.eot"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf",
       "PackagePath": "staticwebassets\\Templates\\seaside\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff",
       "PackagePath": "staticwebassets\\Templates\\seaside\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2",
       "PackagePath": "staticwebassets\\Templates\\seaside\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\fonts\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
       "PackagePath": "staticwebassets\\Templates\\seaside\\fonts\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\form.js",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\form.js",
       "PackagePath": "staticwebassets\\Templates\\seaside\\form.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\gallery.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\gallery.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\gallery.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\arrow-down.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\arrow-down.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\arrow-down.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\background\\4.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\background\\4.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\background\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\background\\7.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\background\\7.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\background\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\blog\\1.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\blog\\1.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\blog\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\blog\\2.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\blog\\2.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\blog\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\blog\\3.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\blog\\3.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\blog\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\blog\\4.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\blog\\4.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\blog\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\blog\\5.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\blog\\5.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\blog\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\blog\\6.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\blog\\6.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\blog\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\close-2.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\close-2.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\close-2.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\close.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\close.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\close.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\dotted.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\dotted.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\dotted.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\gallery\\gallery-item-1.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\gallery\\gallery-item-1.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\gallery\\gallery-item-1.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\gallery\\gallery-item-2.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\gallery\\gallery-item-2.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\gallery\\gallery-item-2.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\gallery\\gallery-item-3.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\gallery\\gallery-item-3.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\gallery\\gallery-item-3.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\gallery\\gallery-item-4.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\gallery\\gallery-item-4.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\gallery\\gallery-item-4.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\gallery\\gallery-item-5.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\gallery\\gallery-item-5.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\gallery\\gallery-item-5.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\gallery\\gallery-item-6.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\gallery\\gallery-item-6.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\gallery\\gallery-item-6.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\gallery\\gallery-item-7.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\gallery\\gallery-item-7.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\gallery\\gallery-item-7.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\icon-slide-min.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\icon-slide-min.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\icon-slide-min.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\icon-slide-plus.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\icon-slide-plus.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\icon-slide-plus.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\icon-url.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\icon-url.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\icon-url.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\icon-zoom.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\icon-zoom.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\icon-zoom.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\icon.png",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\icon.png",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\icon.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\list-arrow.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\list-arrow.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\list-arrow.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\logo.png",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\logo.png",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\misc\\1.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\misc\\1.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\misc\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\misc\\2.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\misc\\2.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\misc\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\offer\\1.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\offer\\1.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\offer\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\offer\\2.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\offer\\2.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\offer\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\offer\\3.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\offer\\3.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\offer\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\page-loader.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\page-loader.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\page-loader.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room-single\\pf (1).jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room-single\\pf (1).jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\room-single\\pf (1).jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room-single\\pf (2).jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room-single\\pf (2).jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\room-single\\pf (2).jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room-single\\pf (3).jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room-single\\pf (3).jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\room-single\\pf (3).jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room-single\\pf (4).jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room-single\\pf (4).jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\room-single\\pf (4).jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room-single\\pf (5).jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room-single\\pf (5).jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\room-single\\pf (5).jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room-single\\pf (6).jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room-single\\pf (6).jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\room-single\\pf (6).jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room-single\\pf (7).jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room-single\\pf (7).jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\room-single\\pf (7).jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\1-alt.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\1-alt.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\room\\1-alt.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\1.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\1.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\room\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\2-alt.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\2-alt.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\room\\2-alt.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\2.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\2.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\room\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\3-alt.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\3-alt.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\room\\3-alt.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\3.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\3.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\room\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\4-alt.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\4-alt.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\room\\4-alt.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\4.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\4.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\room\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\5-alt.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\5-alt.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\room\\5-alt.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\5.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\5.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\room\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\6-alt.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\6-alt.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\room\\6-alt.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\6.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\room\\6.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\room\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\slider\\1.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\slider\\1.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\slider\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\slider\\2.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\slider\\2.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\slider\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\slider\\3.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\slider\\3.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\slider\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\svg\\car-parking-svgrepo-com.svg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\svg\\car-parking-svgrepo-com.svg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\svg\\car-parking-svgrepo-com.svg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\svg\\coffee-table-svgrepo-com.svg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\svg\\coffee-table-svgrepo-com.svg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\svg\\coffee-table-svgrepo-com.svg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\svg\\fitness-gym-svgrepo-com.svg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\svg\\fitness-gym-svgrepo-com.svg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\svg\\fitness-gym-svgrepo-com.svg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\svg\\laundry-machine-svgrepo-com.svg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\svg\\laundry-machine-svgrepo-com.svg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\svg\\laundry-machine-svgrepo-com.svg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\svg\\meeting-explain-svgrepo-com.svg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\svg\\meeting-explain-svgrepo-com.svg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\svg\\meeting-explain-svgrepo-com.svg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\svg\\restaurant-svgrepo-com.svg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\svg\\restaurant-svgrepo-com.svg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\svg\\restaurant-svgrepo-com.svg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\svg\\safebox-svgrepo-com.svg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\svg\\safebox-svgrepo-com.svg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\svg\\safebox-svgrepo-com.svg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\svg\\screen-tv-svgrepo-com.svg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\svg\\screen-tv-svgrepo-com.svg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\svg\\screen-tv-svgrepo-com.svg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\svg\\swimming-pool-svgrepo-com.svg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\svg\\swimming-pool-svgrepo-com.svg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\svg\\swimming-pool-svgrepo-com.svg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui.totop.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui.totop.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\ui.totop.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\arrow-down-invert.png",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\arrow-down-invert.png",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\ui\\arrow-down-invert.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\arrow-down-smaller.png",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\arrow-down-smaller.png",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\ui\\arrow-down-smaller.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\arrow-down.png",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\arrow-down.png",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\ui\\arrow-down.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\arrow-up-invert.png",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\arrow-up-invert.png",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\ui\\arrow-up-invert.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\arrow-up.png",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\arrow-up.png",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\ui\\arrow-up.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\avatar.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\avatar.jpg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\ui\\avatar.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\bed.svg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\bed.svg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\ui\\bed.svg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\bed.svg.readme",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\bed.svg.readme",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\ui\\bed.svg.readme"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\floorplan.svg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\floorplan.svg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\ui\\floorplan.svg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\select-arrow-invert.png",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\select-arrow-invert.png",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\ui\\select-arrow-invert.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\select-arrow.png",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\select-arrow.png",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\ui\\select-arrow.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\user.svg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\ui\\user.svg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\images\\ui\\user.svg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\index-full-page.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\images\\user\\default.jpg",
+      "PackagePath": "staticwebassets\\Templates\\seaside\\images\\user\\default.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\index-full-page.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\index-full-page.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\index-room-slider-1.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\index-room-slider-1.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\index-room-slider-1.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\index-slider-2.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\index-slider-2.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\index-slider-2.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\index-slider-3.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\index-slider-3.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\index-slider-3.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\index-snowy.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\index-snowy.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\index-snowy.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\index-video-background.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\index-video-background.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\index-video-background.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\index.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\index.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\index.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\designesia.js",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\designesia.js",
       "PackagePath": "staticwebassets\\Templates\\seaside\\js\\designesia.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\let-it-snow.min.js",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\let-it-snow.min.js",
       "PackagePath": "staticwebassets\\Templates\\seaside\\js\\let-it-snow.min.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\plugins.js",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\plugins.js",
       "PackagePath": "staticwebassets\\Templates\\seaside\\js\\plugins.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\css\\supersized.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\css\\supersized.css",
       "PackagePath": "staticwebassets\\Templates\\seaside\\js\\supersized\\css\\supersized.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\img\\back.svg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\img\\back.svg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\js\\supersized\\img\\back.svg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\img\\bg-black.png",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\img\\bg-black.png",
       "PackagePath": "staticwebassets\\Templates\\seaside\\js\\supersized\\img\\bg-black.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\img\\bg-hover.png",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\img\\bg-hover.png",
       "PackagePath": "staticwebassets\\Templates\\seaside\\js\\supersized\\img\\bg-hover.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\img\\forward.svg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\img\\forward.svg",
       "PackagePath": "staticwebassets\\Templates\\seaside\\js\\supersized\\img\\forward.svg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\img\\pause.png",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\img\\pause.png",
       "PackagePath": "staticwebassets\\Templates\\seaside\\js\\supersized\\img\\pause.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\img\\play.png",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\img\\play.png",
       "PackagePath": "staticwebassets\\Templates\\seaside\\js\\supersized\\img\\play.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\img\\progress-back.png",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\img\\progress-back.png",
       "PackagePath": "staticwebassets\\Templates\\seaside\\js\\supersized\\img\\progress-back.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\img\\progress-bar.png",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\img\\progress-bar.png",
       "PackagePath": "staticwebassets\\Templates\\seaside\\js\\supersized\\img\\progress-bar.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\img\\progress.gif",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\img\\progress.gif",
       "PackagePath": "staticwebassets\\Templates\\seaside\\js\\supersized\\img\\progress.gif"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\img\\thumb-back.png",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\img\\thumb-back.png",
       "PackagePath": "staticwebassets\\Templates\\seaside\\js\\supersized\\img\\thumb-back.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\img\\thumb-forward.png",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\img\\thumb-forward.png",
       "PackagePath": "staticwebassets\\Templates\\seaside\\js\\supersized\\img\\thumb-forward.png"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\js\\supersized.3.2.7.js",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\js\\supersized.3.2.7.js",
       "PackagePath": "staticwebassets\\Templates\\seaside\\js\\supersized\\js\\supersized.3.2.7.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\theme\\supersized.shutter.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\theme\\supersized.shutter.css",
       "PackagePath": "staticwebassets\\Templates\\seaside\\js\\supersized\\theme\\supersized.shutter.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\theme\\supersized.shutter.min.js",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\js\\supersized\\theme\\supersized.shutter.min.js",
       "PackagePath": "staticwebassets\\Templates\\seaside\\js\\supersized\\theme\\supersized.shutter.min.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\offer.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\offer.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\offer.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\room-2-cols.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\room-2-cols.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\room-2-cols.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\room-single.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\room-single.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\room-single.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\Templates\\seaside\\room.html",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\Templates\\seaside\\room.html",
       "PackagePath": "staticwebassets\\Templates\\seaside\\room.html"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\image\\user\\default.jpg",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\image\\user\\default.jpg",
       "PackagePath": "staticwebassets\\image\\user\\default.jpg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\emailConfirm\\css\\site.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\emailConfirm\\css\\site.css",
       "PackagePath": "staticwebassets\\lib\\emailConfirm\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\wwwroot\\lib\\registeration\\css\\site.css",
+      "Id": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\wwwroot\\lib\\registeration\\css\\site.css",
       "PackagePath": "staticwebassets\\lib\\registeration\\css\\site.css"
     },
     {

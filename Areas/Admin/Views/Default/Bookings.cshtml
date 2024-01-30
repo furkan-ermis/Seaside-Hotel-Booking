@@ -1,0 +1,50 @@
+﻿@model IEnumerable<DestinyHaven.Entity.Booking>
+<div class="content-wrapper">
+    <div class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1 class="m-0 text-dark">Rezeravations</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="content">
+        <div class="container-fluid m-5">
+            <div class="row">
+                <div class="col-lg-12">
+                    <table class="table table-sm">
+                        <thead>
+                            <tr>
+                                <th scope="col">Id</th>
+                                <th scope="col">User</th>
+                                <th scope="col">CheckInDate</th>
+                                <th scope="col">CheckOutDate</th>
+                                <th scope="col">Adult / Child</th>
+                                <th scope="col">Price</th>
+                                <th scope="col">Room Count</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var booking in Model)
+                            {
+                                <tr>
+                                    <th scope="row">@booking.Id</th>
+                                    <td>@booking.AppUser.Name @booking.AppUser.Surname</td>
+                                    <td>@booking.CheckInDate</td>
+                                    <td>@booking.CheckOutDate</td>
+                                    <td>@booking.Adult / @booking.Child</td>
+                                    <td>@booking.RoomDetails.Sum(x=>x.Price * x.Quantity)</td>
+                                    <td>@booking.RoomDetails.Sum(x=>x.Quantity)</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+
+            </div>
+            <!-- /.row -->
+        </div><!-- /.container-fluid -->
+    </div>
+    <!-- /.content -->
+</div>

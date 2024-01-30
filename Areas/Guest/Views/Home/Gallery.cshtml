@@ -1,4 +1,4 @@
-﻿
+﻿@model List<Gallery>
 @{
     ViewData["Title"] = "Gallery";
     Layout = "~/Areas/Guest/Views/Shared/_Layout.cshtml";
@@ -24,103 +24,24 @@
     <section id="section-main" class="no-bg no-top" aria-label="section-menu">
         <div class="container">
             <div id="gallery" class="row g-4">
-                <div class="col-md-4 item">
+                @foreach (var item in Model)
+                {
+                    <div class="col-md-4 item" style="height:260px">
                     <div class="de-image-hover">
-                        <a href="~/Templates/seaside/images/gallery/gallery-item-1.jpg" class="image-popup">
+                        <a href="@item.Image" class="image-popup">
                             <span class="dih-title-wrap">
-                                <span class="dih-title">Gallery Title</span>
+                                    <span class="dih-title">@(item.Description.Length > 20 ? item.Description.Substring(0, 20) + "..." : item.Description)</span>
                             </span>
                             <span class="dih-overlay"></span>
-                            <img src="~/Templates/seaside/images/gallery/gallery-item-1.jpg"
+                                <img  src="@item.Image"
                                  class="lazy img-fluid"
                                  alt="" />
                         </a>
                     </div>
                 </div>
+                }
 
-                <div class="col-md-4 item">
-                    <div class="de-image-hover">
-                        <a href="~/Templates/seaside/images/gallery/gallery-item-2.jpg" class="image-popup">
-                            <span class="dih-title-wrap">
-                                <span class="dih-title">Gallery Title</span>
-                            </span>
-                            <span class="dih-overlay"></span>
-                            <img src="~/Templates/seaside/images/gallery/gallery-item-2.jpg"
-                                 class="lazy img-fluid"
-                                 alt="" />
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-md-4 item">
-                    <div class="de-image-hover">
-                        <a href="~/Templates/seaside/images/gallery/gallery-item-3.jpg" class="image-popup">
-                            <span class="dih-title-wrap">
-                                <span class="dih-title">Gallery Title</span>
-                            </span>
-                            <span class="dih-overlay"></span>
-                            <img src="~/Templates/seaside/images/gallery/gallery-item-3.jpg"
-                                 class="lazy img-fluid"
-                                 alt="" />
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-md-4 item">
-                    <div class="de-image-hover">
-                        <a href="~/Templates/seaside/images/gallery/gallery-item-4.jpg" class="image-popup">
-                            <span class="dih-title-wrap">
-                                <span class="dih-title">Gallery Title</span>
-                            </span>
-                            <span class="dih-overlay"></span>
-                            <img src="~/Templates/seaside/images/gallery/gallery-item-4.jpg"
-                                 class="lazy img-fluid"
-                                 alt="" />
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-md-4 item">
-                    <div class="de-image-hover">
-                        <a href="~/Templates/seaside/images/gallery/gallery-item-5.jpg" class="image-popup">
-                            <span class="dih-title-wrap">
-                                <span class="dih-title">Gallery Title</span>
-                            </span>
-                            <span class="dih-overlay"></span>
-                            <img src="~/Templates/seaside/images/gallery/gallery-item-5.jpg"
-                                 class="lazy img-fluid"
-                                 alt="" />
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-md-8 item">
-                    <div class="de-image-hover">
-                        <a href="~/Templates/seaside/images/gallery/gallery-item-6.jpg" class="image-popup">
-                            <span class="dih-title-wrap">
-                                <span class="dih-title">Gallery Title</span>
-                            </span>
-                            <span class="dih-overlay"></span>
-                            <img src="~/Templates/seaside/images/gallery/gallery-item-6.jpg"
-                                 class="lazy img-fluid"
-                                 alt="" />
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-md-4 item">
-                    <div class="de-image-hover">
-                        <a href="~/Templates/seaside/images/gallery/gallery-item-7.jpg" class="image-popup">
-                            <span class="dih-title-wrap">
-                                <span class="dih-title">Gallery Title</span>
-                            </span>
-                            <span class="dih-overlay"></span>
-                            <img src="~/Templates/seaside/images/gallery/gallery-item-7.jpg"
-                                 class="lazy img-fluid"
-                                 alt="" />
-                        </a>
-                    </div>
-                </div>
+                
             </div>
         </div>
     </section>

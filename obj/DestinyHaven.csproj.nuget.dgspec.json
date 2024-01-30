@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\DestinyHaven.csproj": {}
+    "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\DestinyHaven.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\DestinyHaven.csproj": {
+    "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\DestinyHaven.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\DestinyHaven.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\DestinyHaven.csproj",
         "projectName": "DestinyHaven",
-        "projectPath": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\DestinyHaven.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\DestinyHaven.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\DestinyHaven\\DestinyHaven\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\SeaSideHotelRezervation\\DestinyHaven\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,6 +45,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Iyzipay": {
+              "target": "Package",
+              "version": "[2.1.61, )"
+            },
             "Microsoft.AspNetCore.Identity": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -80,6 +84,10 @@
             "NETCore.MailKit": {
               "target": "Package",
               "version": "[2.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [

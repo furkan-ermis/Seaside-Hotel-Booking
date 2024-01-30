@@ -19,7 +19,7 @@
         </div>
     </section>
 
-    <section id="section-main" class="no-bg no-top" aria-label="section-menu">
+    <section id="section-main" style="margin-bottom:100px" class="no-bg no-top" aria-label="section-menu">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -28,129 +28,83 @@
                             <div class="col-lg-8">
                                 <div class="row">
                                     <div class="col-lg-6">
-                                        <h3>Seaside Miami</h3>
+                                        <h3>Seaside Kuveytturk</h3>
                                         <address>
                                             <span>
-                                                <strong>Address:</strong>100 S Main St, Los
-                                                Angeles, CA
+                                                <strong>Address:</strong>Cumhuriyet Mah. Özgürlük Cad. No: 11/A Çayırova Kocaeli
                                             </span>
-                                            <span><strong>Phone:</strong>(208) 333 9296</span>
-                                            <span><strong>Fax:</strong>(208) 333 9298</span>
+                                            <span><strong>Phone:</strong>(555) 333 3333</span>
+                                            <span><strong>Fax:</strong>(555) 333 3322</span>
                                             <span>
-                                                <strong>Email:</strong><a href="mailto:contact@example.com">contact@example.com</a>
+                                                <strong>Email:</strong><a href="mailto:contact@example.com">10webapp10@gmail.com</a>
                                             </span>
                                         </address>
                                     </div>
 
                                     <div class="col-lg-6">
-                                        <h3>Seaside Maldives</h3>
+                                        <h3>Seaside Architecht</h3>
                                         <address>
                                             <span>
-                                                <strong>Address:</strong>100 S Main St, Los
-                                                Angeles, CA
+                                                <strong>Address:</strong>Sanayi Mah. Teknopark Blv. 1 / 4c / 601 Teknopark İstanbul
+                                                Pendik / İstanbul
                                             </span>
-                                            <span><strong>Phone:</strong>(208) 333 9296</span>
-                                            <span><strong>Fax:</strong>(208) 333 9298</span>
+                                            <span><strong>Phone:</strong>(555) 333 3333</span>
+                                            <span><strong>Fax:</strong>(555) 333 3322</span>
                                             <span>
-                                                <strong>Email:</strong><a href="mailto:contact@example.com">contact@example.com</a>
+                                                <strong>Email:</strong><a href="mailto:contact@example.com">10webapp10@gmail.com</a>
                                             </span>
                                         </address>
                                     </div>
                                 </div>
 
                                 <div class="spacer-single"></div>
-
-                                <form name="contactForm" id="contact_form" method="post">
+                                @if (User.Identity.IsAuthenticated)
+                                {
+                                <form name="contactForm" id="contact_form" asp-action="Contact" method="post">
+                                    @Html.AntiForgeryToken()
                                     <div class="row">
                                         <div class="col-md-12 mb10">
                                             <h3>Send Us Message</h3>
                                         </div>
-                                        <div class="col-md-6">
-                                            <div id="name_error" class="error">
-                                                Please enter your name.
+                                            
+                                            <div class="col-md-12">
+                                                <div class="form-group">
+                                                    <label for="Message">Your Message:</label>
+                                                    <textarea placeholder="Your Message" name="Message" id="Message" class="form-control" required></textarea>
+                                                </div>
                                             </div>
-                                            <div>
-                                                <input type="text"
-                                                       name="Name"
-                                                       id="name"
-                                                       class="form-control"
-                                                       placeholder="Your Name"
-                                                       required />
-                                            </div>
-
-                                            <div id="email_error" class="error">
-                                                Please enter your valid E-mail ID.
-                                            </div>
-                                            <div>
-                                                <input type="email"
-                                                       name="Email"
-                                                       id="email"
-                                                       class="form-control"
-                                                       placeholder="Your Email"
-                                                       required />
-                                            </div>
-
-                                            <div id="phone_error" class="error">
-                                                Please enter your phone number.
-                                            </div>
-                                            <div>
-                                                <input type="text"
-                                                       name="phone"
-                                                       id="phone"
-                                                       class="form-control"
-                                                       placeholder="Your Phone"
-                                                       required />
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div id="message_error" class="error">
-                                                Please enter your message.
-                                            </div>
-                                            <div>
-                                                <textarea name="message"
-                                                          id="message"
-                                                          class="form-control"
-                                                          placeholder="Your Message"
-                                                          required></textarea>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-md-12">
-                                           
-                                            <p id="submit" class="mt20">
-                                                <input type="submit"
-                                                       id="send_message"
-                                                       value="Submit Form"
-                                                       class="btn btn-line" />
-                                            </p>
-                                            <div id="mail_success" class="success">
-                                                Your message has been sent successfully.
-                                            </div>
-                                            <div id="mail_fail" class="error">
-                                                Sorry, error occured this time sending your message.
+                                            <div class="col-md-12">
+                                            <div class="mt20">
+                                                <input type="submit" 
+                                                        value="Submit Form"
+                                                        style="border:1px solid rgba(255,255,255,0.5);padding:4px 8px;color:dimgray;background-color:transparent;"/>
                                             </div>
                                         </div>
                                     </div>
-                                </form>
-
-                                <div id="success_message" class="success">
+                                    </form>
+                                }
+                                else
+                                {
+                                    <br />
+                                    <h3>Iletisime Gecmek Icin Lutfen Uye Girisi Yapiniz </h3>
+                                }
+                                <br />
+                                @if(TempData["Message"]=="true")
+                                {
+                                <div id="success_message" class="success" style="display:block !important">
                                     Your message has been sent successfully. Refresh this page
                                     if you want to send more messages.
                                 </div>
-                                <div id="error_message" class="error">
+                                }
+                                else if (TempData["Message"] == "false")
+                                {
+                                <div id="error_message" class="error" style="display:block !important">
                                     Sorry there was an error sending your form.
                                 </div>
+                                }
                             </div>
-
                             <div class="col-lg-4">
                                 <div class="map-container map-fullwidth">
-                                    @*<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.7152203584424!2d-118.2453181849353!3d34.05117548060617!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c648d9808fbd%3A0xb79dfbc6ae338c12!2s100%20S%20Main%20St%2C%20Los%20Angeles%2C%20CA%2090012%2C%20USA!5e0!3m2!1sen!2sid!4v1592143290578!5m2!1sen!2sid"
-                                            width="600"
-                                            height="450"
-                                            style="border: 0"
-                                            allowfullscreen=""
-                                            aria-hidden="false"
-                                            tabindex="0"></iframe>*@
                                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3014.666476766214!2d29.31389417652563!3d40.923058224667315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cb275c7856e323%3A0xd3523f32cfdfae4a!2sArchitecht%20Bili%C5%9Fim%20Sistemleri%20ve%20Pazarlama%20Ticaret%20A.%C5%9E.!5e0!3m2!1str!2str!4v1705578475650!5m2!1str!2str" 
                                             width="600" 
                                             height="450" 

@@ -1,12 +1,13 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <partial name="_LayoutPartial/_HeadPartial" />
-<body >
+<body style="display:block !important" >
     <div id="wrapper">
         <partial name="_LayoutPartial/_HeaderPartial" />
         @RenderBody()
     </div>
     <partial name="_LayoutPartial/_ScriptPartial" />
     @await RenderSectionAsync("Scripts", required: false)
+
 </body>
 </html>

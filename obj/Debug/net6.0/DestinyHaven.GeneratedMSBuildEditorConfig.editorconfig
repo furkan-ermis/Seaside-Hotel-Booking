@@ -9,153 +9,161 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DestinyHaven
 build_property.RootNamespace = DestinyHaven
-build_property.ProjectDir = C:\Users\hp\Desktop\DestinyHaven\DestinyHaven\
+build_property.ProjectDir = C:\Users\hp\Desktop\SeaSideHotelRezervation\DestinyHaven\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\hp\Desktop\DestinyHaven\DestinyHaven
+build_property.MSBuildProjectDirectory = C:\Users\hp\Desktop\SeaSideHotelRezervation\DestinyHaven
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Admin/Views/Shared/Error.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Admin/Views/Default/Bookings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGVmYXVsdFxCb29raW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Admin/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Admin/Views/Default/Users.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGVmYXVsdFxVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Admin/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Blog/Blogs.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Blog/Blogs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcQmxvZ1xCbG9ncy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Blog/BlogSingle.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Blog/BlogSingle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcQmxvZ1xCbG9nU2luZ2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Book/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcQm9va1xJbmRleC5jc2h0bWw=
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Booking/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcQm9va2luZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/ConfirmMail/Index.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Booking/Order.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcQm9va2luZ1xPcmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Booking/Payment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcQm9va2luZ1xQYXltZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/ConfirmMail/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcQ29uZmlybU1haWxcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Home/About.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Home/Contact.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Home/Gallery.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Home/Gallery.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcSG9tZVxHYWxsZXJ5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Home/Index.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Login/Index.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Register/Register.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Payment/Approved.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcUGF5bWVudFxBcHByb3ZlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Payment/Order.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcUGF5bWVudFxPcmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Register/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcUmVnaXN0ZXJcUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Room/Rooms.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Room/Rooms.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcUm9vbVxSb29tcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Room/RoomSingle.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Room/RoomSingle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcUm9vbVxSb29tU2luZ2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Shared/Components/Home/ContactInfo/Default.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Shared/Components/Home/ContactInfo/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcU2hhcmVkXENvbXBvbmVudHNcSG9tZVxDb250YWN0SW5mb1xEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Shared/Components/Home/LuxeryRoom/Default.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Shared/Components/Home/LuxeryRoom/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcU2hhcmVkXENvbXBvbmVudHNcSG9tZVxMdXhlcnlSb29tXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Shared/Components/Home/OurRooms/Default.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Shared/Components/Home/OurRooms/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcU2hhcmVkXENvbXBvbmVudHNcSG9tZVxPdXJSb29tc1xEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Shared/Components/Home/SliderContent/Default.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Shared/Components/Home/SliderContent/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcU2hhcmVkXENvbXBvbmVudHNcSG9tZVxTbGlkZXJDb250ZW50XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Shared/Components/Home/Testimonials/Default.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Shared/Components/Home/Testimonials/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcU2hhcmVkXENvbXBvbmVudHNcSG9tZVxUZXN0aW1vbmlhbHNcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Shared/Error.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Shared/_LayoutPartial/_FooterPartial.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Shared/_LayoutPartial/_FooterPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcU2hhcmVkXF9MYXlvdXRQYXJ0aWFsXF9Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Shared/_LayoutPartial/_HeaderPartial.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Shared/_LayoutPartial/_HeaderPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcU2hhcmVkXF9MYXlvdXRQYXJ0aWFsXF9IZWFkZXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Shared/_LayoutPartial/_HeadPartial.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Shared/_LayoutPartial/_HeadPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcU2hhcmVkXF9MYXlvdXRQYXJ0aWFsXF9IZWFkUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Shared/_LayoutPartial/_ScriptPartial.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Shared/_LayoutPartial/_ScriptPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcU2hhcmVkXF9MYXlvdXRQYXJ0aWFsXF9TY3JpcHRQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/_ViewImports.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/_ViewStart.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/User/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/User/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/User/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/User/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-y2pjvmkowr
 
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/Guest/Views/Shared/_Layout.cshtml]
+[C:/Users/hp/Desktop/SeaSideHotelRezervation/DestinyHaven/Areas/Guest/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcR3Vlc3RcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-waoqy2ovmo
-
-[C:/Users/hp/Desktop/DestinyHaven/DestinyHaven/Areas/User/Views/Shared/_UserLayout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX1VzZXJMYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-hsz0zle3t1

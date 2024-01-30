@@ -1,0 +1,44 @@
+﻿@model IEnumerable<DestinyHaven.Entity.Room>
+<div class="content-wrapper">
+    <div class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1 class="m-0 text-dark">Rooms</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="content">
+        <div class="container-fluid m-5">
+            <div class="row">
+                <div class="col-lg-12">
+                    <table class="table table-sm">
+                        <thead>
+                            <tr>
+                                <th scope="col">Id</th>
+                                <th scope="col">Room Type</th>
+                                <th scope="col">Room Size</th>
+                                <th scope="col">Capacity</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        @foreach (var room in Model)
+                            {
+                                <tr>
+                                    <th scope="row">@room.Id</th>
+                                    <td>@room.Name</td>
+                                    <td>@room.RoomSize</td>
+                                    <td>@room.Capacity</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+               
+            </div>
+            <!-- /.row -->
+        </div><!-- /.container-fluid -->
+    </div>
+    <!-- /.content -->
+</div>

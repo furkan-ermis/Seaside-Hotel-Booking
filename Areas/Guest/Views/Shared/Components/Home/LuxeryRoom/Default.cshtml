@@ -1,37 +1,33 @@
-﻿<div class="row align-items-center">
+﻿@model Room
+<div class="row align-items-center">
             <div class="col-lg-3 col-6">
                 <div class="spacer-double sm-hide"></div>
-                <img src="~/Templates/seaside/images/misc/1.jpg"
+                <img  style="height:370px; width:100%" src="@Model.Images[1].Image"
                      alt=""
-                     class="img-responsive wow fadeInUp"
+                     class="wow fadeInUp"
                      data-wow-duration="1s" />
             </div>
 
             <div class="col-lg-3 col-6">
-                <img src="~/Templates/seaside/images/misc/2.jpg"
+                <img src="@Model.Images[0].Image"
                      alt=""
-                     class="img-responsive wow fadeInUp"
+                     style="height:340px; width:90%"
+                     class="wow fadeInUp"
                      data-wow-duration="1.5s" />
             </div>
 
             <div class="col-lg-6 wow fadeIn">
                 <div class="padding20">
                     <h2 class="title mb10">
-                        The Luxury Experience<br />You'll Remember
+                        The @Model.Name Experience<br />You'll Remember
                         <span class="small-border"></span>
                     </h2>
 
                     <p>
-                        Welcome to our luxurious hotel, where sophistication,
-                        impeccable service, and unparalleled comfort await you. From
-                        the moment you step into our grand lobby, you'll be immersed
-                        in an atmosphere of opulence and refined elegance. As you
-                        enter our elegant establishment, you will be greeted by a
-                        captivating ambiance that exudes sophistication and
-                        tranquility.
+                        @Model.Overview
                     </p>
 
-                    <a asp-action="RoomSingle" asp-controller="Room" asp-area="Guest" class="btn-line"><span>Book Now</span>s</a>
+                    <a asp-action="RoomSingle" asp-controller="Room" asp-area="Guest" asp-route-id="@Model.Id" class="btn-line"><span>Book Now</span>s</a>
                 </div>
             </div>
 

@@ -1,0 +1,182 @@
+﻿@model BookingViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Guest/Views/Shared/_Layout.cshtml";
+    bool flag = ViewBag.flag;
+}
+
+
+<div id="background" data-bgimage="url(/Templates/seaside/images/background/2.jpg) fixed"></div>
+<div id="content-absolute">
+
+    <!-- subheader -->
+    <section id="subheader" class="no-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <h1>Booking</h1>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="section-main" class="no-bg no-top" aria-label="section-menu">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 offset-lg-3">
+                    <div class="de-content-overlay">
+                        <form name="contactForm" id='contact_form' method="post">
+                            <div id="step-1" class="row">
+
+                                <div class="col-md-12 mb10">
+                                    <h4>Choose Date</h4>
+                                    <input type="text" id="date-picker" class="form-control" name="date-picker" value="">
+
+                                    <div class="guests-n-rooms">
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <h4>Adult</h4>
+                                                <div class="de-number">
+                                                    <span class="d-minus">-</span>
+                                                    <input type="text" id="adultCount" value="1">
+                                                    <span class="d-plus">+</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <h4>Children</h4>
+                                                <div class="de-number">
+                                                    <span class="d-minus">-</span>
+                                                    <input type="text" id="childCount" value="0">
+                                                    <span class="d-plus">+</span>
+                                                </div>
+                                            </div>
+                                         <div class="col-md-4">
+                                                <h4>Room</h4>
+                                                <div id="d-room-count" class="de-number">
+                                                    <span class="d-minus">-</span>
+                                                    <input id="room-count" type="text" value="1" max="3">
+                                                    <span class="d-plus">+</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                          
+
+                            <div class="select-room">
+                                <h4>Select Room</h4>
+                                <select name="Room Type"  id="room-type" class="form-control">
+                                 @foreach (var roomType in (SelectList)ViewBag.RoomTypes)
+                                 {
+                                        if (roomType.Value ==ViewBag.selectedRoomType)
+                                        {
+                                            <option value="@roomType.Value" selected>@roomType.Text</option>
+                                        }
+                                        else
+                                        {
+                                            <option value="@roomType.Value">@roomType.Text</option>
+                                        }
+                                    }
+                                 </select>
+                                
+                            </div>
+
+
+
+                            <div id="step-2" class="row">
+                                <h4>Enter your details</h4>
+                                <div class="col-md-6">
+                                    <div id='name_error' class='error'>Please enter your name.</div>
+                                    <div>
+                                        <input type='text' name='Name' id='name' class="form-control" placeholder="Your Name" required>
+                                    </div>
+
+                                    <div id='email_error' class='error'>Please enter your valid E-mail ID.</div>
+                                    <div>
+                                        <input type='email' name='Email' id='email' class="form-control" placeholder="Your Email" required>
+                                    </div>
+
+                                    <div id='phone_error' class='error'>Please enter your phone number.</div>
+                                    <div>
+                                        <input type='text' name='phone' id='phone' class="form-control" placeholder="Your Phone" required>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div id='message_error' class='error'>Please enter your message.</div>
+                                    <div>
+                                        <textarea name='message' id='message' class="form-control" placeholder="Your Message"></textarea>
+                                    </div>
+                                </div>
+
+                                
+                                <div class="col-md-12">
+                                    <p id='submit' class="mt20">
+                                        <input  value='Submit Form' type="button" onclick="submitForm()" class="btn btn-line">
+                                    </p>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script>
+        const submitForm = async () =>{
+
+            const selectList= document.getElementsByClassName('select-room')
+            const selectedItems= []
+            selectList.forEach(element => {
+                if (element.style.display != 'none') {
+                    selectedItems.push(parseInt(element.children[1].value));
+                }
+            });
+            console.log(selectedItems)
+
+            var datePicker = document.getElementById("date-picker").value;
+            var adultCount = document.getElementById("adultCount").value;
+            var childCount = document.getElementById("childCount").value;
+            var message = document.getElementById("message").value;
+            var checkInDate = new Date(datePicker.split(" - ")[0]);
+            var checkOutDate = new Date(datePicker.split(" - ")[1]);
+            var formattedCheckInDate = checkInDate.toISOString();
+            var formattedCheckOutDate = checkOutDate.toISOString();
+            var adult = parseInt(adultCount);
+            var child = parseInt(childCount);
+
+            var booking = {
+                CheckInDate: formattedCheckInDate,
+                CheckOutDate: formattedCheckOutDate,
+                Adult: adult,
+                Child: child,
+                Message: message
+                ,
+                roomList: [...selectedItems]
+            };
+           const response=await $.ajax({
+                type: "POST",
+                url: "/Guest/Booking/Index", 
+                data: JSON.stringify(booking),
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (result) {
+                    console.log(result);
+                },
+                error: function (error) {
+                    console.log(error);
+                }
+            });
+            if (response) {
+                window.location.href = "/Guest/Payment/Order";
+            }
+            else{
+                alert("Secili Tarih araliginda yeterli oda bulunamamaktadir");
+            }
+        }
+    </script>
+    <!-- subheader close -->
+
+    <partial name="_LayoutPartial/_FooterPartial" />
+</div>
+
